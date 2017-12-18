@@ -1,0 +1,4 @@
+﻿  Huffman.cpp
+c:\users\huangxm\desktop\huffman\huffman\huffmancompress.h(121): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\huangxm\desktop\huffman\huffman\huffmancompress.h(201): warning C4018: “<”: 有符号/无符号不匹配
+  Huffman.vcxproj -> C:\Users\huangxm\Desktop\Huffman\Debug\Huffman.exe
